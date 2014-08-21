@@ -1,4 +1,4 @@
 DemoStrap
 =======
 
-This is a demonstration of bootstrap using several plugin scripts I've found across the net.
+A demonstration of Bootstrap with several 3rd party scripts and plugins
